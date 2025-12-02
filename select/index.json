@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "After Run",
+  "base_artist": "シーズ",
+  "createdAt": "2025-12-02T20:57:37.458165Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "After Run",
+      "artist": "SHHis",
+      "has_synced": false,
+      "path": "select/01_After_Run_SHHis.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "After Run",
+      "artist": "シーズ",
+      "has_synced": false,
+      "path": "select/pl_01_After_Run_シーズ.txt"
+    }
+  ]
+}
